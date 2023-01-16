@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\bin\Debug\netcoreapp3.1\Smallest of 3 Digits.exe
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\bin\Debug\netcoreapp3.1\Smallest of 3 Digits.deps.json
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\bin\Debug\netcoreapp3.1\Smallest of 3 Digits.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\bin\Debug\netcoreapp3.1\Smallest of 3 Digits.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\bin\Debug\netcoreapp3.1\Smallest of 3 Digits.dll
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\bin\Debug\netcoreapp3.1\Smallest of 3 Digits.pdb
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\obj\Debug\netcoreapp3.1\Smallest of 3 Digits.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\obj\Debug\netcoreapp3.1\Smallest of 3 Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\obj\Debug\netcoreapp3.1\Smallest of 3 Digits.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\obj\Debug\netcoreapp3.1\Smallest of 3 Digits.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\obj\Debug\netcoreapp3.1\Smallest of 3 Digits.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\obj\Debug\netcoreapp3.1\Smallest of 3 Digits.dll
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\obj\Debug\netcoreapp3.1\Smallest of 3 Digits.pdb
+C:\Users\ASUS\Desktop\C# intro\Smallest of 3 Digits\Smallest of 3 Digits\obj\Debug\netcoreapp3.1\Smallest of 3 Digits.genruntimeconfig.cache
